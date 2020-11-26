@@ -87,11 +87,11 @@ endif::[]
 //------------------------------------ 
 == {assignment}
 
-{lastName}:: BRUEL
+{lastName}:: BARBE
 
-{firstName}:: Jean-Michel
+{firstName}:: MATTHIEU
 
-{group} #::
+{group} #::3B
 
 [%interactive]
 - [x] {Enseignants}
@@ -259,24 +259,24 @@ public class PizzaTestDrive {
 .Résultat d'exécution
 ............
 $ java -jar target/pizzeria.jar
-Préparation de Pizza sauce style brest et fromage
-Étalage de la pâte...
+Préparation de Pizza sauce style brest et fromage
+Étalage de la pâte...
 Ajout de la sauce...
 Ajout des garnitures: 
- Parmigiano reggiano râpé
-Cuisson 25 minutes à 180 degrés
-Découpage en parts triangulaires
-Emballage dans une boîte officielle
+ Parmigiano reggiano râpé
+Cuisson 25 minutes à 180 degrés
+Découpage en parts triangulaires
+Emballage dans une boîte officielle
 JMB a commandé une Pizza sauce style brest et fromage
 
-Préparation de Pizza pâte style Strasbourg et fromage
-Étalage de la pâte...
+Préparation de Pizza pâte style Strasbourg et fromage
+Étalage de la pâte...
 Ajout de la sauce...
 Ajout des garnitures: 
  Mozzarella en lamelles
-Cuisson 25 minutes à 180 degrés
+Cuisson 25 minutes à 180 degrés
 Découpage en parts carrées
-Emballage dans une boîte officielle
+Emballage dans une boîte officielle
 JMI a commandé une Pizza pâte style Strasbourg et fromage
 ............
 
